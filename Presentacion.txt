@@ -1,1 +1,5 @@
 Este es el Repositorio del curso de Java Developer Junior
+
+block: header, nav, div, etc... "ocupan" todo el ancho, ya que no aceptan nada a su costado.(tiene margin y padding)
+inline: video, img, textos, span, strong, (no tiene margin, padding)
+
